@@ -49,7 +49,7 @@ public class AuthUI : MonoBehaviour
         Screen.orientation = ScreenOrientation.Portrait;
         ShowLoginPanel();
     }
-
+    //test
     public void ShowLoginPanel()
     {
         Debug.Log("LOGIIINNNNN");
